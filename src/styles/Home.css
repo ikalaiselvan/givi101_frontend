@@ -1,0 +1,15 @@
+.container {
+    max-width: 400px !important;
+    margin: 50px auto;
+    padding: 20px !important;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    box-shadow: 0 0 10 rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: blue;
+    border: none;
+    color: #fff;
+}
